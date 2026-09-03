@@ -1,10 +1,10 @@
 
  
-passenger_name = "Mukesh"        # str - text
-destination = "Goa"             # str - text
-ticket_price = 850.50           # float - decimal number
-number_of_tickets = 3           # int - whole number
-is_available = True             # bool - True or False
+passenger_name = "Mukesh"        
+destination = "Goa"           
+ticket_price = 850.50           
+number_of_tickets = 3           
+is_available = True             
  
 print("Passenger Name:", passenger_name)
 print("Destination:", destination)
