@@ -1,4 +1,3 @@
-# Function to get fibonacci number using recursion
 def fibonacci(n):
     if n == 0:
         return 0
