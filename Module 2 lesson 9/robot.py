@@ -3,7 +3,7 @@ class Robot:
         self.name = name
     def introduce(self):
         print(f"Hello, my name is {self.name}!")
-robot1 = Robot("Tom")
-robot2 = Robot("Jerry")
+robot1 = Robot("tom")
+robot2 = Robot("jerry")
 robot1.introduce()
 robot2.introduce()
